@@ -10,7 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on data projects.
 - 🤔 I’m looking for help with api's.
 - 💬 Ask me about data science.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I love data science job.
 -->
