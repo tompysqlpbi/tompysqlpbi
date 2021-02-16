@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-Data analyst
+I’m currently working on mine projects and as data analyst in sport industry.
+
+I’m currently improving my skills with Power BI and Python and SQL.
+
+I love work with the data. Analyze them, sort them, predict from them and compare histrical data against current data.
