@@ -1,6 +1,6 @@
 I am Data Analyst with 4+ year experience. The Data Analyst/Scientist role is my dream job.
 
-I’m currently working on mine projects and as data analyst in sport industry. 
+I’m currently working as data analyst in sport industry and on mine projects in my free time. 
 
 I have experiences with Machine learning, customer segmentation and Fraud detection.
 
