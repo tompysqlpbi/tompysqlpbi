@@ -1,6 +1,8 @@
-I am Data Analyst with 4+ year experience.
+I am Data Analyst with 4+ year experience. Data analysing is my dream job.
 
 I’m currently working on mine projects and as data analyst in sport industry. 
+
+I have experiences with Machine learning, customer segmentation and Fraud detection.
 
 For example in my free time I predict the odds from historical data.
 
