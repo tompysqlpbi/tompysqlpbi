@@ -16,12 +16,18 @@ Here are some ideas to get you started:
 -->
 
 
-I’m currently working on mine projects and as data analyst in sport industry.
+I am Data Analyst with 4+ year experience.
 
-I’m currently improving my skills with Power BI and Python and SQL.
+I’m currently working on mine projects and as data analyst in sport industry. For example predict the odds  from historical data.
 
-I love to work with the data. Analyze them, sort them, predict from them and compare histrical data against current data.
+I am developing report for NHL Yahoo fantasy For better estimation to better player pick.
 
-Mostly I work with sport data, financial data etc.
+Next of my projects is to monitor my favourite stocks and cryptocurrencies in Power BI with real time data.
 
+Also I am improving my skills with Power BI and Python and SQL.
 
+I love to work with the data. Analyse them, sort them, predict from them and compare histrical data against current data.
+
+Mostly I work with sport data and financial data.
+
+I can webscrape the data, read JSON fromat and work with API.
