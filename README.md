@@ -16,5 +16,8 @@ Mostly I work with sport data and financial data.
 
 I can webscrape the data, read JSON fromat and work with API.
 
-
 Some data sources I recommend https://github.com/tompysqlpbi/Data-sources
+
+Here you can find some my Python codes https://github.com/tompysqlpbi/Python
+
+and here SQL codes https://github.com/tompysqlpbi/SQL
