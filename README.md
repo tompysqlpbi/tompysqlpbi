@@ -33,4 +33,4 @@ Mostly I work with sport data and financial data.
 I can webscrape the data, read JSON fromat and work with API.
 
 
-Some data sources i reccomend https://github.com/tompysqlpbi/Data-sources
+Some data sources I recommend https://github.com/tompysqlpbi/Data-sources
