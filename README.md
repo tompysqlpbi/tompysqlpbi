@@ -1,4 +1,4 @@
-I am Data Analyst with 4+ year experience. Data analysing is my dream job.
+I am Data Analyst with 4+ year experience. The Data Analyst role is my dream job.
 
 I’m currently working on mine projects and as data analyst in sport industry. 
 
