@@ -1,6 +1,8 @@
 I am Data Analyst with 4+ year experience.
 
-I’m currently working on mine projects and as data analyst in sport industry. For example predict the odds  from historical data.
+I’m currently working on mine projects and as data analyst in sport industry. 
+
+For example in my free time I predict the odds from historical data.
 
 I am developing report for NHL Yahoo fantasy For better estimation to better player pick.
 
